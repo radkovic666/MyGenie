@@ -1,1 +1,3 @@
-# MyGenie
+MyGenie is your personal knowledge assistant, making information retrieval effortless and intuitive. Just ask MyGenie any question, and it will record your query using advanced voice recognition. The app then sends your question to the Wikipedia API, which searches for the most relevant and accurate articles related to your query.
+
+MyGenie presents the best results in a clean, user-friendly format, making it easy to browse and understand the information. Additionally, MyGenie offers a narration feature that reads the content aloud, allowing you to absorb knowledge hands-free. Whether you're curious about history, science, or any topic, MyGenie is your go-to app for quick, reliable answers.
